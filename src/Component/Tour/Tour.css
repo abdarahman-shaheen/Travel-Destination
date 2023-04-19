@@ -1,0 +1,18 @@
+#my-Tour{
+    display: flex;
+   
+   justify-content: space-around;
+   gap: 50px;
+  
+
+}
+
+#Tours{
+   
+    display: flex;
+    flex-direction: column;
+
+}
+#Tours img {
+    width: 100%;
+}
