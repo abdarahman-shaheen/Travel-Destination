@@ -1,18 +1,27 @@
 #my-Tour{
     display: flex;
-   
-   justify-content: space-around;
-   gap: 50px;
+   justify-content: flex-start;
+   gap: 100px;
+  width: 100%;
+  height: max-content;
+  flex-wrap: wrap;
   
 
 }
 
 #Tours{
+    margin-left: 100px;
    
+    width: 500px;
+    border: white solid 2rem;
+   border-radius: 5%;
     display: flex;
     flex-direction: column;
+   
 
 }
 #Tours img {
     width: 100%;
+    border: 5%;
+   
 }
