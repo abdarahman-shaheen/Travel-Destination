@@ -1,0 +1,9 @@
+#Detail{
+    display: flex;
+    flex-direction: column;
+  justify-content: center;
+  align-items: center;
+    width: 75%;
+text-align: center;
+padding-left: 400px;
+}
